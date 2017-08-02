@@ -6,3 +6,7 @@ NBot es un bot desarrollado en phyton para los canales creados en Discord,
 #Soporte
 
 #Desarrolladores
+
+#Comunidad
+
+www.gamerzhacking.com
